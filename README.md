@@ -6,6 +6,6 @@ mmmmmmn.l_52907 (on discord) / ff6f8d68 (on github) for paradox os
  1. Download Homebrew Launcher.pms
  2. Add it to paradox os as a sprite
  3. add it in data modifier app
- 4. restart the project (hide the list, and the varibles but not app name)
+ 4. clsoe the app
  5. open the custom app
  6. now you can launch/ add your own apps!
